@@ -1,0 +1,205 @@
+{
+  "voteTotals": {
+    "senior-prefect-boy": {
+      "Ademola James": 0,
+      "Chinedu Okonkwo": 0,
+      "Emeka Afolabi": 0
+    },
+    "senior-prefect-girl": {
+      "Blessing Adeoye": 0,
+      "Chioma Udochukwu": 0,
+      "Funke Adebayo": 0
+    },
+    "special-duty-boy": {
+      "David Eze": 0,
+      "Ibrahim Musa": 0,
+      "Kelvin Nwosu": 0
+    },
+    "special-duty-girl": {
+      "Aisha Bello": 0,
+      "Grace Nwabueze": 0,
+      "Ifeoma Okeke": 0
+    },
+    "labour-prefect-boy": {
+      "Samuel Okafor": 0,
+      "Tunde Akin": 0,
+      "Michael Oladele": 0
+    },
+    "labour-prefect-girl": {
+      "Maryam Adeyemi": 0,
+      "Zainab Ibrahim": 0,
+      "Comfort Eze": 0
+    },
+    "sanitary-prefect-boy": {
+      "Victor Nwankwo": 0,
+      "Joseph Eboh": 0,
+      "Stephen Daniel": 0
+    },
+    "sanitary-prefect-girl": {
+      "Ruth Obi": 0,
+      "Ngozi Okechukwu": 0,
+      "Beatrice Ajayi": 0
+    },
+    "uniform-and-assembly-prefect-boy": {
+      "Daniel Usman": 0,
+      "Peter Chukwu": 0,
+      "Kelvin Osei": 0
+    },
+    "uniform-and-assembly-prefect-girl": {
+      "Esther Anene": 0,
+      "Patricia Nwachukwu": 0,
+      "Miriam Okonkwo": 0
+    },
+    "health-prefect-boy": {
+      "Felix Okoro": 0,
+      "Abraham Suleiman": 0,
+      "Emmanuel Etim": 0
+    },
+    "health-prefect-girl": {
+      "Hannah Adeniran": 0,
+      "Peace Okafor": 0,
+      "Rachel Anyanwu": 0
+    },
+    "adelanwa-house-captain-girl": {
+      "Oluchi Nwachukwu": 0,
+      "Amaka Onwuka": 0,
+      "Chidinma Uzoma": 0
+    },
+    "adelanwa-house-captain-boy": {
+      "Chike Obi": 0,
+      "Uzoma Chukwu": 0,
+      "Emeka Anya": 0
+    },
+    "aduwo-house-captain-girl": {
+      "Ifeyinwa Bello": 0,
+      "Kemi Adebisi": 0,
+      "Lara Johnson": 0
+    },
+    "aduwo-house-captain-boy": {
+      "Ayo Akinwale": 0,
+      "Sola Martins": 0,
+      "Niyi Adeyemi": 0
+    },
+    "soroh-house-captain-boy": {
+      "Gabriel Ezeugo": 0,
+      "Emmanuel Osei": 0,
+      "Daniel Nnamdi": 0
+    },
+    "soroh-house-captain-girl": {
+      "Joy Okofor": 0,
+      "Tina Oladipo": 0,
+      "Stella Akpan": 0
+    },
+    "wey-house-captain-boy": {
+      "Isaac Nwosu": 0,
+      "Ahmed Bello": 0,
+      "Chukwudi Okeke": 0
+    },
+    "wey-house-captain-girl": {
+      "Nneka Ibe": 0,
+      "Chiamaka Obi": 0,
+      "Promise Ugo": 0
+    },
+    "adelanwa-dining-hall-prefect-girl": {
+      "Blessing Nwosu": 0,
+      "Kindness Okoro": 0,
+      "Adaugo Nwankwo": 0
+    },
+    "wey-dining-hall-prefect-girl": {
+      "Deborah Ibe": 0,
+      "Comfort Afolabi": 0,
+      "Eunice Okeke": 0
+    },
+    "aduwo-dining-hall-prefect-girl": {
+      "Fatima Yusuf": 0,
+      "Maryam Ahmed": 0,
+      "Rahama Musa": 0
+    },
+    "soroh-dining-hall-prefect-girl": {
+      "Faith Obi": 0,
+      "Chisom Eze": 0,
+      "Ujunwa Nwafor": 0
+    },
+    "sport-prefect-girl": {
+      "Sandra Mgbe": 0,
+      "Grace Eke": 0,
+      "Lola Adeyemi": 0
+    },
+    "sport-prefect-boy": {
+      "Michael Eze": 0,
+      "Ezekiel John": 0,
+      "Isaac David": 0
+    },
+    "time-keeper-girl": {
+      "Jennifer Akin": 0,
+      "Mary Nwankwo": 0,
+      "Joyce Eze": 0
+    },
+    "utility-prefect": {
+      "Samuel Ojo": 0,
+      "Rachel Okafor": 0,
+      "Daniel Uche": 0
+    },
+    "barbing-and-banking-prefect": {
+      "Peter Johnson": 0,
+      "Maryam Suleiman": 0,
+      "Ekene Okafor": 0
+    },
+    "laboratory-prefect": {
+      "Chinedu Uche": 0,
+      "Ifeoma Ibe": 0,
+      "Chika Eze": 0
+    },
+    "cadet-prefect-girl": {
+      "Stella Akpabio": 0,
+      "Henrietta Nnadi": 0,
+      "Jane Udo": 0
+    },
+    "cadet-prefect-boy": {
+      "Benjamin Okonkwo": 0,
+      "Emeka Chike": 0,
+      "David Arinze": 0
+    },
+    "chapel-prefect-boy": {
+      "Paul Usman": 0,
+      "Samuel Ajayi": 0,
+      "Joseph Michael": 0
+    },
+    "chapel-prefect-girl": {
+      "Esther David": 0,
+      "Mercy Chi": 0,
+      "Deborah Amadi": 0
+    },
+    "amira-girl": {
+      "Amira Hassan": 0,
+      "Amira Yusuf": 0,
+      "Amira Adamu": 0
+    },
+    "amir-boy": {
+      "Amir Sani": 0,
+      "Amir Bello": 0,
+      "Amir Umar": 0
+    },
+    "library-prefect-girl": {
+      "Adaobi Nwosu": 0,
+      "Chinelo Okafor": 0,
+      "Nkechi Anyanwu": 0
+    },
+    "library-prefect-boy": {
+      "Emeka Ugo": 0,
+      "Ahmed Musa": 0,
+      "Tunde Adeola": 0
+    },
+    "social-prefect-girl": {
+      "Blessing Olayinka": 0,
+      "Halle Nwachukwu": 0,
+      "Zara Bello": 0
+    },
+    "social-prefect-boy": {
+      "Daniel Ayo": 0,
+      "Femi Okeke": 0,
+      "Michael Chukwu": 0
+    }
+  },
+  "votedIds": []
+}
